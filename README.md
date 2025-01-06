@@ -147,5 +147,6 @@ air-quality-index/
 
 - **Kaggle** for providing the air quality dataset.
 - **TensorFlow** and **Flask** communities for their comprehensive documentation and support.
+- under guidance of [Dr Agughasi Victor Ikechukwu](https://github.com/Victor-Ikechukwu)
 
 ---
