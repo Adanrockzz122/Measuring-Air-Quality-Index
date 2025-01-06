@@ -99,14 +99,14 @@ The app will run on **`http://127.0.0.1:5000`**. Open this URL in your browser t
 ### **Before Prediction**
 This is how the application looks before entering pollutant values:
 
-![Before Prediction](static/screenshots/before_prediction.png)
+![Screenshot 2025-01-06 200539](https://github.com/user-attachments/assets/4665b6e1-2021-404e-9cd3-c0cc5ae94436)
 
 ---
 
 ### **After Prediction**
 This is how the application displays the predicted air quality after entering the pollutant values:
 
-![After Prediction](static/screenshots/after_prediction.png)
+![Screenshot 2025-01-06 200631](https://github.com/user-attachments/assets/b7fd4809-d6aa-444d-af7e-294c3cc305f2)
 
 ---
 
